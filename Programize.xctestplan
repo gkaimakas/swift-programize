@@ -1,0 +1,42 @@
+{
+  "configurations" : [
+    {
+      "id" : "D4D6FD43-E25A-4FCE-AF23-AA0047B61259",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:Programize.xcodeproj",
+      "identifier" : "1356D6CF2CC2FCC7009570A3",
+      "name" : "Programize"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:swift-programize",
+        "identifier" : "QuoteListTests",
+        "name" : "QuoteListTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:swift-programize",
+        "identifier" : "APIsTests",
+        "name" : "APIsTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:swift-programize",
+        "identifier" : "DTOsTests",
+        "name" : "DTOsTests"
+      }
+    }
+  ],
+  "version" : 1
+}

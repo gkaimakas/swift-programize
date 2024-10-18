@@ -1,0 +1,8 @@
+//
+//  Untitled.xcconfig
+//  Programize
+//
+//  Created by George Kaimakas on 19/10/24.
+//
+
+API_BASE_URL = localhost:3001/api
